@@ -1,0 +1,152 @@
+Imagine that you are hired to enable data analytics; where would you start? 
+How would you go about gathering requirements? Hint: Think backward from what the business may need
+
+Answer:
+
+I would start by first understanding the business/company. This is one of the first crucial step in even basic Requirements Gathering.
+You need to understand the business and market you are in. Maybe in the timeframe that you need to provide the analytics by might be 
+very short, you wont need to be an expert in the field of understand holistacally everything, but maybe you should understand the basic 
+fundamentals of the business. Asking questions like which domain does the business fall under. Is is scientific, is it gambling, is it agriculture. 
+
+
+
+Below is a more detailed formal approach that I would take:
+
+Intro: Enabling data analytics is a complex and dynamic process that requires a comprehensive understanding of business needs, data capabilities and technological solutions.
+By thinking backward from the business objectives and gathering detailed requirements, organizations can build a data analytics strategy that drives value and supports growth.
+This ensures that the analytcis solutions are aligned with the overall business strategy and deliver actionable insights that enhance decision-making and performance.
+
+Step 1: Understanding Business Objectives
+Identify Key Business Goals
+  1. Engage the Stakeholders:
+      - Conduct interviews and meetings with key stakeholders such as executives, department heads, and managers to understand the company's overall business strategry.
+      - Ask questions like:
+            - What are the primary goals of the organization?
+            - What are the critical success factors?
+            - Are there any specific challenges or opportunities currently faced by the business?
+
+  2. Analyze Strategic Documents:
+      - Review the company's strategic documents, mission statements, and any existing business plans to align the data analytics efforts with business goals 
+
+  3. Prioritize Goals: 
+      - Identify which goals are most important and feasible to tackle with data analytics
+      - Determine the timeline for achieving these goals, and prioritse efforts accordingly
+
+Define Success Metrics:
+  1. Determine KPI's:
+      - Work with stakeholders to identify key performance indicators that will measure success
+      - Understand what metrics will drive business peformance and decision-making.
+      - Examples: customer acquisition cost, churn rate, sales growth etc.
+
+  2. Align with Business Processes:
+      - Ensure that the KPI's align with current business processes and workflows
+      - Establish a baseline for current performance to measure improvement
+
+
+Step 2: Assess Current State
+Evaluate Existing Data Infrastructure
+  1. Conduct a Data Audit:
+      - Assess the existing data infrastructure, including data sources, quality, and accessibility
+      - Identify gaps in data collection and storage
+      - Examine how data is currently managed, analyzed and reported
+
+  2. Review Technology Stack:
+      - Analyse the current technology stack, including databases, ETL (Extract, Transform, Load) tools , and BI (Business Intelligence) platforms.
+      - Identify any technical limitations or areas for improvement
+
+  3. Understand Data Governance:
+      - Review data governance policies, data security protocols, and compliance with legal requirements.
+      - Ensure there are policies to maintain data accuracy, privacy and security 
+
+
+
+
+Identify Available Skills and Resources
+Assess Team Skills:
+
+Evaluate the skills and capabilities of the current team involved in data analytics.
+Identify skill gaps and determine if additional training or hiring is needed.
+Review Resource Availability:
+
+Understand the resources (tools, budget, personnel) available for data analytics.
+Determine if additional resources are required to meet business objectives.
+Step 3: Gather Requirements
+Define Data Requirements
+Engage with Users:
+
+Conduct workshops, interviews, and surveys with end-users to understand their data needs.
+Ask questions like:
+What insights do you need to make informed decisions?
+What data do you currently use, and what additional data do you need?
+What are the pain points with the existing data process?
+Create Data Use Cases:
+
+Develop specific use cases that outline how data will be used to support business objectives.
+Examples: Customer segmentation for targeted marketing, inventory optimization, etc.
+Identify Data Sources:
+
+Determine the internal and external data sources required to meet the needs identified.
+Consider customer data, transactional data, social media data, etc.
+Define Analytical Requirements
+Determine Analytical Techniques:
+
+Identify the analytical techniques required, such as predictive analytics, machine learning, or descriptive statistics.
+Align these techniques with business goals and data capabilities.
+Outline Reporting Needs:
+
+Define the types of reports, dashboards, and visualizations needed by stakeholders.
+Ensure they are actionable and provide value to the users.
+Set Frequency and Accessibility:
+
+Determine how often analytics should be performed and how data will be accessed.
+Ensure that the results are timely and accessible to decision-makers.
+Step 4: Develop a Roadmap
+Create a Data Analytics Strategy
+Define Objectives and Milestones:
+
+Outline clear objectives and milestones for the data analytics project.
+Set a timeline for implementation and evaluation.
+Develop a Project Plan:
+
+Create a detailed project plan with tasks, responsibilities, timelines, and budget.
+Ensure alignment with overall business strategy and goals.
+Identify Potential Risks:
+
+Recognize potential risks and challenges in implementing data analytics.
+Develop mitigation strategies for each identified risk.
+Plan for Scalability and Flexibility
+Design for Scalability:
+
+Ensure that the data analytics solution can scale with the business as it grows.
+Consider future data needs and technology advancements.
+Implement Flexibility:
+
+Design flexible solutions that adapt to changing business needs and new data sources.
+Build a system that can evolve as business objectives change.
+Step 5: Implement and Iterate
+Build and Deploy Analytics Solutions
+Develop the Solution:
+
+Implement data analytics solutions, including data collection, processing, analysis, and visualization.
+Use agile methodologies to iterate and improve continuously.
+Test and Validate:
+
+Test the solutions thoroughly to ensure they meet the requirements.
+Validate the insights with business stakeholders to ensure they drive actionable outcomes.
+Deploy Across the Organization:
+
+Roll out the solution across the organization, ensuring proper training and support.
+Monitor adoption and adjust as needed to improve user experience.
+Evaluate and Improve
+Monitor Performance:
+
+Continuously monitor the performance of data analytics solutions.
+Use KPIs and metrics to evaluate success.
+Gather Feedback:
+
+Collect feedback from users and stakeholders to identify areas for improvement.
+Encourage a culture of data-driven decision-making across the organization.
+Iterate and Enhance:
+
+Continuously improve the data analytics processes and solutions.
+Adapt to new business challenges and opportunities as they arise.
